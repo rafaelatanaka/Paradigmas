@@ -1,11 +1,13 @@
+# Paradigmas
+
 Existem vagas de C# em todo Brasil e também várias no Exterior 
 
-Desenvolvedor Full Stack - Londrina/PR- job post
+*Desenvolvedor Full Stack - Londrina/PR- job post*
 Fraga Assessoria e Headhunter
 Londrina, PR
 A partir de R$ 3.500 por mês
 
-Dados da vaga
+*Dados da vaga*
 Veja como as informações da vaga se alinham com seu perfil.
 Salário
 
