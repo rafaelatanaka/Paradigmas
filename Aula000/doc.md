@@ -2,24 +2,21 @@
 
 Existem vagas de C# em todo Brasil e também várias no Exterior 
 
-*Desenvolvedor Full Stack - Londrina/PR- job post*
+**Desenvolvedor Full Stack - Londrina/PR- job post**
 Fraga Assessoria e Headhunter
 Londrina, PR
 A partir de R$ 3.500 por mês
 
-*Dados da vaga*
+**Dados da vaga**
 Veja como as informações da vaga se alinham com seu perfil.
-Salário
-
-A partir de R$ 3.500 por mês
-
+Salário: A partir de R$ 3.500 por mês
 Tipo de vaga: Efetivo CLT
 Turno e horário de trabalho: De segunda à sexta-feira
 
-Descrição completa da vaga
+**Descrição completa da vaga**
 Fraga Assessoria, é uma empresa especializada em Assessoria Coaching e Headhunter. Nosso objetivo é conectar os melhores profissionais às melhores oportunidades. Procuramos um profissional para a posição de Desenvolvedor Full Stack, com experiência em desenvolvimento de software e sólidos conhecimentos técnicos para atuar no desenvolvimento, manutenção e evolução de aplicações web e mobile.
 
-Principais Responsabilidades:
+**Principais Responsabilidades:**
 
 - Desenvolver, manter e aprimorar aplicações web e mobile;
 - Atuar no desenvolvimento de soluções utilizando tecnologias de frontend e backend;
@@ -28,7 +25,7 @@ Principais Responsabilidades:
 - Identificar oportunidades de melhoria e propor soluções técnicas;
 - Garantir a qualidade do código, seguindo boas práticas de desenvolvimento.
 
-Requisitos:
+**Requisitos:**
 
 - Experiência comprovada em desenvolvimento Full Stack;
 - Conhecimento em Backend e Frontend;
@@ -40,12 +37,12 @@ Requisitos:
 
 A faixa salarial de um programador C# em Maringá (PR) fica em média entre R$ 4.500 e R$ 9.000 por mês. O valor exato muda conforme o nível de experiência do profissional (Júnior, Pleno ou Sênior) e o porte da empresa contratante na região.
 
-Valores por Nível de Experiência:
+**Valores por Nível de Experiência:**
 Júnior: R$ 3.000 a R$ 4.800
 Pleno: R$ 4.800 a R$ 8.000
 Sênior: R$ 8.000 a R$ 11.000 ou mais
 
-Paradigmas da linguagem:
+**Paradigmas da linguagem:**
 
 1. Orientação a Objetos (OO) — O Paradigma Principal
 2. Programação Funcional
